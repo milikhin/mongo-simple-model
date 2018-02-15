@@ -1,0 +1,36 @@
+{
+  "name": "r5m-simple-model",
+  "version": "0.0.1",
+  "description": "simple model for nodejs mongodb native driver ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixrich/mongo-simple-model.git"
+  },
+  "keywords": [
+    "mongodb",
+    "model"
+  ],
+  "author": {
+    "name": "Rychagov M."
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixrich/mongo-simple-model/issues"
+  },
+  "homepage": "https://github.com/mixrich/mongo-simple-model#readme",
+  "devDependencies": {
+    "co": "^4.6.0",
+    "mongodb": "^2.1.20"
+  },
+  "readme": "# mongo-simple-model",
+  "readmeFilename": "README.md",
+  "gitHead": "91521b3fe11cd716d38cc6b20e27d18c36dd673b",
+  "_id": "r5m-simple-model@0.0.1",
+  "_shasum": "12b2b347766e20a5cecec16579ee84e315e6122a",
+  "_from": "git+https://github.com/mixrich/mongo-simple-model.git",
+  "_resolved": "git+https://github.com/mixrich/mongo-simple-model.git#91521b3fe11cd716d38cc6b20e27d18c36dd673b"
+}
